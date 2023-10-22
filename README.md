@@ -22,6 +22,6 @@ These instructions will help you get a copy of the project up and running on you
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/checkers-game.git
+   git clone https://github.com/angadisumanth10/Checkers-Python.git
 
 
