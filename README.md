@@ -1,3 +1,5 @@
+## Checkers Game
+
 Welcome to the Checkers Game repository! This project is an implementation of the classic board game Checkers, also known as Draughts. It utilizes the MinMax Theorem.
 
 ## Exciting Features
